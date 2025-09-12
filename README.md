@@ -22,19 +22,12 @@ The goal of this project is to analyze and visualize car sales data using Power 
 <img width="1317" height="725" alt="Screenshot 2025-09-02 122216" src="https://github.com/user-attachments/assets/acc41dd7-cd29-4b33-827d-30ec1225a2d7" />
 
 # Project Insights
-## Sales Growth Trend:
 - Year-wise analysis shows overall sales trends, helping identify peak sales years and seasonal fluctuations.
-## Regional Performance:
 - The donut chart highlights top-performing regions, allowing focus on high-demand markets.
-## Transmission Preferences:
 - Bar charts reveal whether customers prefer manual or automatic transmission, helping in inventory planning.
-## Fuel Type Demand:
 - Insights into petrol, diesel, electric, or hybrid sales trends show shifts in customer preferences.
-## Color Popularity:
 - Color-based slicers identify most popular colors, useful for product planning and marketing.
-## Model-Wise Performance:
 - The dashboard identifies top-selling car models, guiding production and promotion strategies.
-## Pricing Insights:
 - The KPI for average price helps analyze market positioning and customer spending patterns.
 
 # Final Conclusion
