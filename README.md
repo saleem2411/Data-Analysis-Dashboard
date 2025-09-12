@@ -18,6 +18,8 @@ The goal of this project is to analyze and visualize car sales data using Power 
     - Bar charts for transmission comparison.
     - Donut chart for regional sales.
     - Line chart for year-wise sales trends.
+ 
+- Dashboard Interaction <a href="https://github.com/saleem2411/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-02%20122216.png">View Dashboard</a>
 ## Dashboard
 <img width="1317" height="725" alt="Screenshot 2025-09-02 122216" src="https://github.com/user-attachments/assets/acc41dd7-cd29-4b33-827d-30ec1225a2d7" />
 
