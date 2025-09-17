@@ -8,6 +8,9 @@ The goal of this project is to analyze and visualize car sales data using Power 
 - What is the total sales revenue over the years?
 - How many orders have been placed in total?
 - What is the average price per car?
+- How  manual and automatic transmission cars perform in sales?
+- Which region contributes the highest sales share?
+- "What is the sales trend from 2010 to 2024?"
   
 ## Process 
 - Gather raw BMW car sales data from Kaggle.com
